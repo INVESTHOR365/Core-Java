@@ -13,5 +13,6 @@ public class ifElseIf {
         else{
             System.out.println(c);
             System.out.println("C is the greatest");
-    }   }
+       } 
+    }
 }
